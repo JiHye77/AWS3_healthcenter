@@ -1132,7 +1132,7 @@ data:
   COMPANY: Customer1 Company Technology Pct. Ltd.
 ```
   > kubectl create -f configmap.yml
-- ![configmap](https://user-images.githubusercontent.com/17754849/108792601-fd618a80-75c4-11eb-9386-3d8785979309.png)
+- ![configmap](https://github.com/JiHye77/AWS3_healthcenter/blob/main/refer/configmap.JPG)
 - 출력하는 소스는 아래의 secret에서 함께 
 
 ## Secret
